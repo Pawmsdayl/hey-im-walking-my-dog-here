@@ -39,11 +39,16 @@ Install the required packages using the provided environment file.
 
 ### Branch Prefixes
 Use the following branch prefixes for different purposes:
-- **Data Branches (`data/branch-description`):** for data processing, and cleaning. Ex: `data/cleaning`
-- **Analysis Branches (`analysis/branch-description`)**: for exploratory data analysis (EDA), and visualization. Ex: `analysis/eda`
-- **Model Branches (`model/branch-description`):** for clustering, prediction, and evaluation. Ex: `model/clustering-evaluation`
-- **Documentation Branches (`docs/branch-description`):** for documentation updates. Ex: `docs/report`
-- **Enhancement Branches (`enhancement/branch-description`):** for refactorization, code enhancements. Ex:, `enhancement/cleaning-readability`.
+- **Data Branches (`data/branch-description`):** for data processing, and cleaning.  
+Ex: `data/cleaning`
+- **Analysis Branches (`analysis/branch-description`)**: for exploratory data analysis (EDA), and visualization.  
+Ex: `analysis/eda`
+- **Model Branches (`model/branch-description`):** for clustering, prediction, and evaluation.  
+Ex: `model/clustering-evaluation`
+- **Documentation Branches (`docs/branch-description`):** for documentation updates.  
+Ex: `docs/report`
+- **Enhancement Branches (`enhancement/branch-description`):** for refactorization, code enhancements.  
+Ex:, `enhancement/cleaning-readability`.
 
 Choose an appropriate prefix with a descriptive name based on the nature of the changes.
 
