@@ -34,7 +34,7 @@ Install the required packages using the provided environment file.
 
 3. **Activate Environment:**
     ```
-        conda activate dog-bite-project             # replace with actual environment name
+        conda activate dog-bite-project         # replace with actual environment name
     ```
 
 ### Branch Prefixes
@@ -58,15 +58,17 @@ Choose an appropriate prefix with a descriptive name based on the nature of the 
 * NYC DOHMH Animal Bite Unit
 
 ## Folder Structure
-project-root/  
-├── data/  
-│   ├── raw/                   # Original data files  
-│   └── processed/             # Cleaned and preprocessed data  
-├── notebooks/                 # Jupyter notebooks for cleaning, clustering, and prediction  
-├── src/                       # Source scripts for functions  
-├── models/                    # Saved models   
-├── results/                   # Results, figures, and tables  
-└── README.md                  # Project documentation  
+```
+    project-root/  
+    ├── data/  
+    │   ├── raw/                   # Original data files  
+    │   └── processed/             # Cleaned and preprocessed data  
+    ├── notebooks/                 # Jupyter notebooks for cleaning, clustering, and prediction  
+    ├── src/                       # Source scripts for functions  
+    ├── models/                    # Saved models   
+    ├── results/                   # Results, figures, and tables  
+    └── README.md                  # Project documentation  
+```
 
 ## Usage
 
