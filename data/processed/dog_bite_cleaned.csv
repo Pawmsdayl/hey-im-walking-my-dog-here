@@ -1,4 +1,4 @@
-date_of_bite,spay_neuter,borough,zip_code,pit bull,other,shih tzu,chihuahua,german shepherd,labrador retriever,bull dog,yorkshire terrier,maltese,standard poodle,husky
+date_of_bite,spay_neuter,borough,zip_code,pit_bull,other,shih_tzu,chihuahua,german_shepherd,labrador_retriever,bull_dog,yorkshire_terrier,maltese,standard_poodle,husky
 2018-01-01,False,brooklyn,11220,False,True,False,False,False,False,False,False,False,False,False
 2018-01-04,False,brooklyn,,False,True,False,False,False,False,False,False,False,False,False
 2018-01-06,False,brooklyn,11224,True,False,False,False,False,False,False,False,False,False,False
