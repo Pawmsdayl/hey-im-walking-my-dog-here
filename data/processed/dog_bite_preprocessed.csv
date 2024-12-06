@@ -3908,7 +3908,6 @@ False,manhattan,2018,2,1,40.792249,-73.947333,True,False,False,False,False,False
 False,manhattan,2018,2,2,40.726392,-73.978604,False,True,False,False,False,False
 False,manhattan,2018,2,3,40.745182,-73.978053,True,False,False,False,False,False
 False,manhattan,2018,2,4,40.824804,-73.950206,True,False,False,False,False,False
-False,manhattan,2018,2,6,42.391883,-72.523584,False,False,False,True,False,False
 False,manhattan,2018,2,0,40.776447,-73.953383,True,False,False,False,False,False
 False,manhattan,2018,2,1,40.734145,-74.006026,False,True,False,False,False,False
 True,manhattan,2018,1,4,40.726392,-73.978604,True,False,False,False,False,False
@@ -7369,7 +7368,6 @@ False,queens,2020,7,1,40.762596,-73.913282,True,False,False,False,False,False
 False,queens,2020,7,1,40.700647,-73.889423,True,False,False,False,False,False
 False,queens,2020,7,1,40.744775,-73.90516,False,False,True,False,False,False
 False,queens,2020,7,1,40.762596,-73.913282,False,False,False,False,True,False
-False,queens,2020,7,1,40.913456,-73.045674,True,False,False,False,False,False
 True,queens,2020,7,3,40.739634,-73.79449,False,False,False,False,True,False
 True,queens,2020,7,3,40.768213,-73.827392,True,False,False,False,False,False
 True,queens,2020,7,5,40.709556,-73.73848,True,False,False,False,False,False
@@ -10792,7 +10790,6 @@ True,brooklyn,2017,11,2,40.622089,-73.96519,True,False,False,False,False,False
 False,brooklyn,2017,11,4,40.671155,-73.936266,False,True,False,False,False,False
 False,brooklyn,2017,1,3,40.6937,-73.989859,True,False,False,False,False,False
 False,brooklyn,2017,11,3,40.62806,-73.946309,True,False,False,False,False,False
-True,brooklyn,2017,11,1,42.764617,-82.666777,True,False,False,False,False,False
 False,brooklyn,2017,11,5,40.696891,-73.968074,False,True,False,False,False,False
 False,brooklyn,2017,11,5,40.601293,-73.944493,True,False,False,False,False,False
 True,brooklyn,2017,11,0,40.62806,-73.946309,False,True,False,False,False,False
@@ -17309,7 +17306,6 @@ False,brooklyn,2022,7,6,40.678301,-73.919932,True,False,False,False,False,False
 True,brooklyn,2022,7,6,40.70416,-73.921139,True,False,False,False,False,False
 False,staten island,2022,7,6,40.627505,-74.094377,True,False,False,False,False,False
 True,staten island,2022,7,6,40.627505,-74.094377,False,True,False,False,False,False
-False,staten island,2022,7,6,41.32911,-74.871787,True,False,False,False,False,False
 False,staten island,2022,7,6,40.627505,-74.094377,True,False,False,False,False,False
 True,queens,2022,7,0,40.700315,-73.836019,True,False,False,False,False,False
 False,queens,2022,7,0,40.751435,-73.821227,True,False,False,False,False,False
